@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Bana mesaj atmaktan asla çekinme sana seve seve yardım ederim</h3>
 
 <h3 align="left">Hayat Zor olduğu halde kendimi zorlamaya devam ediyorum:</h3>
 <p align="left">
