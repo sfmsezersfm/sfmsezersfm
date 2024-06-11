@@ -2,7 +2,7 @@
 <h3 align="center">Beni takip edersen sevinirim</h3>
 
 <h3 align="left">Hayat Zor olduğu halde kendimi zorlamaya devam ediyorum:</h3>
-<h3 align="left">Discord Yardım Sunucum:https://discord.gg/NRAnA99aEZ:</h3>
+<h3 align="left">Discord Yardım Sunucum:https://discord.gg/z85gcCv5YW
 <p align="left">
 </p> 
 
